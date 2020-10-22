@@ -1,5 +1,5 @@
 # CS130-GLPipeline
-OpenGL Rendering Pipeline for CS130
+Rendering Pipeline for CS130
 ## Scripts
 
 Available scripts:
