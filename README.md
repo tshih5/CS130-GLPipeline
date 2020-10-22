@@ -1,4 +1,4 @@
-# CS130-GLPipeline
+# CS130-RenderPipeline
 Rendering Pipeline for CS130
 ## Scripts
 
